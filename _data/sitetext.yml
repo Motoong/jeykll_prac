@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Elden ring DLC
+    text: Shadow of Elde Tree
+    button: more info
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "서비스"
     text: "Lorem ipsum"
     section: services
     list:
